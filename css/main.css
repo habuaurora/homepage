@@ -1,0 +1,46 @@
+#icon {
+    width: 100px ;
+    height: 100px;
+}
+
+#select {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+#jsb {
+    width: 200px;
+    height: 30px;
+}
+
+#snsb {
+    width: 200px;
+    height: 30px;
+}
+
+#jsb:hover {
+    background-color: gainsboro;
+}
+
+#snsb:hover {
+    background-color: gainsboro;
+}
+
+#jsb:active {
+    background-color: gray;
+}
+
+#snsb:active {
+    background-color: gray;
+}
+
+#mc {
+    width: 480px;
+    height: 270px;
+}
+
+#xicon {
+    width: 100px;
+    height: 100px;
+}
